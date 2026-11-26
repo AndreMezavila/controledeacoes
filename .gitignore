@@ -20,6 +20,7 @@ next-env.d.ts
 .env.development
 .env.production
 .env.test
+.env.example
 
 # Banco de Dados Local (SQLite)
 *.db
